@@ -367,12 +367,43 @@
           "email": "test10@gmail.com",
           "name": "Test 10",
           "id": 13
+        },
+        {
+          "id": 14,
+          "email": "test11@gmail.com",
+          "name": "Test 11"
         }
       ],
-      "UserList": "swammia908@gmail.com-test1@gmail.com-test2@gmail.com-test3@gmail.com-test4@gmail.com-test5@gmail.com-sumit@learnwithsumit.com-akash@learnwithsumit.com-saad@learnwithsumit.com-test6@gmail.com-test7@gmail.com-test8@gmail.com-test9@gmail.com-test10@gmail.com",
+      "UserList": "swammia908@gmail.com-test1@gmail.com-test2@gmail.com-test3@gmail.com-test4@gmail.com-test5@gmail.com-sumit@learnwithsumit.com-akash@learnwithsumit.com-saad@learnwithsumit.com-test6@gmail.com-test7@gmail.com-test8@gmail.com-test9@gmail.com-test10@gmail.com-test11@gmail.com",
       "timestamp": 1663475131705,
       "CreatedBy": "swammia908@gmail.com",
       "id": 4
+    },
+    {
+      "TeamName": "Management",
+      "TeamDescription": "This team will manage all other team",
+      "TeamColor": "emerald",
+      "Users": [
+        {
+          "email": "swammia908@gmail.com",
+          "name": "Md. Raihanul Islam",
+          "id": 27
+        },
+        {
+          "id": 1,
+          "email": "sumit@learnwithsumit.com",
+          "name": "Sumit Saha"
+        },
+        {
+          "id": 2,
+          "email": "akash@learnwithsumit.com",
+          "name": "Akash Ahmed"
+        }
+      ],
+      "UserList": "swammia908@gmail.com-sumit@learnwithsumit.com-akash@learnwithsumit.com",
+      "timestamp": 1663502027442,
+      "CreatedBy": "swammia908@gmail.com",
+      "id": 5
     }
   ]
 }
