@@ -11,11 +11,13 @@ router.render = (req, res) => {
         path.includes("/users") &&
         (method === "GET")
     ) {
-        res.locals.data = res.locals.data.map((user) => {return {
-            id : user.id,
-            email : user.email,
-            name : user.name
-        }})
+        res.locals.data = res.locals.data.map((user) => {
+            return {
+                id : user.id,
+                email : user.email,
+                name : user.name
+            }
+        })
     }
 
     res.json(res.locals.data);
