@@ -182,43 +182,36 @@
         },
         {
           "email": "sumit@learnwithsumit.com",
-          "password": "$2a$10$tGMlJhQmAnx7f4cIVY55FOtIRV91wjRwBhdpaANPoslku3P/aAjPK",
           "name": "Sumit Saha",
           "id": 1
         },
         {
           "email": "akash@learnwithsumit.com",
-          "password": "$2a$10$Oc6jXnK6/pbSqmkngo/b.OhsU3JRf4OU1h9QwIoqz8ZUpG/hgHq72",
           "name": "Akash Ahmed",
           "id": 2
         },
         {
           "email": "saad@learnwithsumit.com",
-          "password": "$2a$10$DVGOgchZrtvb1w6Pj.B0D.DXmHmoTsdy3oXfwF.02kE/pzJ7jyHqy",
           "name": "Saad Hasan",
           "id": 3
         },
         {
           "email": "test1@gmail.com",
-          "password": "$2a$10$.Yw4t3v3IwR3dPm4rvAskOHwK1Clu7sLY.i.hxPRztsUF4U9fYN4S",
           "name": "Test 1",
           "id": 4
         },
         {
           "email": "test2@gmail.com",
-          "password": "$2a$10$.Yw4t3v3IwR3dPm4rvAskOHwK1Clu7sLY.i.hxPRztsUF4U9fYN4S",
           "name": "Test 2",
           "id": 5
         },
         {
           "email": "test3@gmail.com",
-          "password": "$2a$10$.Yw4t3v3IwR3dPm4rvAskOHwK1Clu7sLY.i.hxPRztsUF4U9fYN4S",
           "name": "Test 3",
           "id": 6
         },
         {
           "email": "test4@gmail.com",
-          "password": "$2a$10$.Yw4t3v3IwR3dPm4rvAskOHwK1Clu7sLY.i.hxPRztsUF4U9fYN4S",
           "name": "Test 4",
           "id": 7
         }
@@ -240,25 +233,21 @@
         },
         {
           "email": "sumit@learnwithsumit.com",
-          "password": "$2a$10$tGMlJhQmAnx7f4cIVY55FOtIRV91wjRwBhdpaANPoslku3P/aAjPK",
           "name": "Sumit Saha",
           "id": 1
         },
         {
           "email": "akash@learnwithsumit.com",
-          "password": "$2a$10$Oc6jXnK6/pbSqmkngo/b.OhsU3JRf4OU1h9QwIoqz8ZUpG/hgHq72",
           "name": "Akash Ahmed",
           "id": 2
         },
         {
           "email": "saad@learnwithsumit.com",
-          "password": "$2a$10$DVGOgchZrtvb1w6Pj.B0D.DXmHmoTsdy3oXfwF.02kE/pzJ7jyHqy",
           "name": "Saad Hasan",
           "id": 3
         },
         {
           "email": "test1@gmail.com",
-          "password": "$2a$10$.Yw4t3v3IwR3dPm4rvAskOHwK1Clu7sLY.i.hxPRztsUF4U9fYN4S",
           "name": "Test 1",
           "id": 4
         }
@@ -280,25 +269,21 @@
         },
         {
           "email": "sumit@learnwithsumit.com",
-          "password": "$2a$10$tGMlJhQmAnx7f4cIVY55FOtIRV91wjRwBhdpaANPoslku3P/aAjPK",
           "name": "Sumit Saha",
           "id": 1
         },
         {
           "email": "akash@learnwithsumit.com",
-          "password": "$2a$10$Oc6jXnK6/pbSqmkngo/b.OhsU3JRf4OU1h9QwIoqz8ZUpG/hgHq72",
           "name": "Akash Ahmed",
           "id": 2
         },
         {
           "email": "saad@learnwithsumit.com",
-          "password": "$2a$10$DVGOgchZrtvb1w6Pj.B0D.DXmHmoTsdy3oXfwF.02kE/pzJ7jyHqy",
           "name": "Saad Hasan",
           "id": 3
         },
         {
           "email": "test1@gmail.com",
-          "password": "$2a$10$.Yw4t3v3IwR3dPm4rvAskOHwK1Clu7sLY.i.hxPRztsUF4U9fYN4S",
           "name": "Test 1",
           "id": 4
         }
@@ -340,55 +325,46 @@
         },
         {
           "email": "test5@gmail.com",
-          "password": "$2a$10$.Yw4t3v3IwR3dPm4rvAskOHwK1Clu7sLY.i.hxPRztsUF4U9fYN4S",
           "name": "Test 5",
           "id": 8
         },
         {
           "email": "sumit@learnwithsumit.com",
-          "password": "$2a$10$tGMlJhQmAnx7f4cIVY55FOtIRV91wjRwBhdpaANPoslku3P/aAjPK",
           "name": "Sumit Saha",
           "id": 1
         },
         {
           "email": "akash@learnwithsumit.com",
-          "password": "$2a$10$Oc6jXnK6/pbSqmkngo/b.OhsU3JRf4OU1h9QwIoqz8ZUpG/hgHq72",
           "name": "Akash Ahmed",
           "id": 2
         },
         {
           "email": "saad@learnwithsumit.com",
-          "password": "$2a$10$DVGOgchZrtvb1w6Pj.B0D.DXmHmoTsdy3oXfwF.02kE/pzJ7jyHqy",
           "name": "Saad Hasan",
           "id": 3
         },
         {
           "email": "test6@gmail.com",
-          "password": "$2a$10$.Yw4t3v3IwR3dPm4rvAskOHwK1Clu7sLY.i.hxPRztsUF4U9fYN4S",
           "name": "Test 6",
           "id": 9
         },
         {
           "email": "test7@gmail.com",
-          "password": "$2a$10$.Yw4t3v3IwR3dPm4rvAskOHwK1Clu7sLY.i.hxPRztsUF4U9fYN4S",
           "name": "Test 7",
           "id": 10
         },
         {
           "email": "test8@gmail.com",
-          "password": "$2a$10$.Yw4t3v3IwR3dPm4rvAskOHwK1Clu7sLY.i.hxPRztsUF4U9fYN4S",
           "name": "Test 8",
           "id": 11
         },
         {
           "email": "test9@gmail.com",
-          "password": "$2a$10$.Yw4t3v3IwR3dPm4rvAskOHwK1Clu7sLY.i.hxPRztsUF4U9fYN4S",
           "name": "Test 9",
           "id": 12
         },
         {
           "email": "test10@gmail.com",
-          "password": "$2a$10$.Yw4t3v3IwR3dPm4rvAskOHwK1Clu7sLY.i.hxPRztsUF4U9fYN4S",
           "name": "Test 10",
           "id": 13
         }
