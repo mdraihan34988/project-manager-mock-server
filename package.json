@@ -1,5 +1,5 @@
 {
-    "name": "lws-json-server-todos",
+    "name": "json-server-project-manager",
     "description": "Project Manger Mock Server",
     "version": "1.0.0",
     "main": "server.js",
