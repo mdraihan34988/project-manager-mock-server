@@ -460,7 +460,7 @@
       "TeamId": 6,
       "timestamp": 1663513973802,
       "CreatedBy": "swammia908@gmail.com",
-      "ProjectStatus": "Backlog",
+      "ProjectStatus": "Blocked",
       "id": 1
     },
     {
@@ -469,7 +469,7 @@
       "TeamId": 4,
       "timestamp": 1663514060106,
       "CreatedBy": "swammia908@gmail.com",
-      "ProjectStatus": "Ready",
+      "ProjectStatus": "Backlog",
       "id": 2
     },
     {
@@ -505,7 +505,7 @@
       "TeamId": 4,
       "timestamp": 1663516535019,
       "CreatedBy": "swammia908@gmail.com",
-      "ProjectStatus": "Backlog",
+      "ProjectStatus": "Review",
       "id": 6
     },
     {
@@ -514,8 +514,24 @@
       "TeamId": 4,
       "timestamp": 1663516779571,
       "CreatedBy": "swammia908@gmail.com",
-      "ProjectStatus": "Backlog",
+      "ProjectStatus": "Done",
       "id": 7
+    },
+    {
+      "ProjectTitle": "This is for tech team",
+      "TeamId": 3,
+      "timestamp": 1663684240406,
+      "CreatedBy": "swammia908@gmail.com",
+      "ProjectStatus": "Doing",
+      "id": 8
+    },
+    {
+      "ProjectTitle": "asdadsa",
+      "TeamId": 2,
+      "timestamp": 1663687059295,
+      "CreatedBy": "swammia908@gmail.com",
+      "ProjectStatus": "Ready",
+      "id": 9
     }
   ]
 }
